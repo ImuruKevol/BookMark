@@ -1,3 +1,0 @@
-# Openstack Bookmark
-
-## Index
